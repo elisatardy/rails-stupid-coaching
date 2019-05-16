@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+ $pink: #f51f04
+
+h1 {
+  background-color: $pink;
+ }
